@@ -68,9 +68,9 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: HEAD
+      ref: master
       resolved-ref: "6da8540c19170aa458ca328a7fd148a453ef7538"
-      url: "git://github.com/bazrafkan/custom_button.git"
+      url: "git@github.com:bazrafkan/custom_button.git"
     source: git
     version: "0.0.1"
   flutter:
