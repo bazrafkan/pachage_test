@@ -25,7 +25,7 @@ dependencies:
   cupertino_icons: ^0.1.2
   custom_button:
     git:
-      url: git@github.com:bazrafkan/custom_button.git
+      url: git@bitbucket.org:kurosh2019/custom_button.git
       ref: master
 
 dev_dependencies:

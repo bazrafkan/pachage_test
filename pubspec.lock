@@ -70,7 +70,7 @@ packages:
       path: "."
       ref: master
       resolved-ref: "6da8540c19170aa458ca328a7fd148a453ef7538"
-      url: "git@github.com:bazrafkan/custom_button.git"
+      url: "git@bitbucket.org:kurosh2019/custom_button.git"
     source: git
     version: "0.0.1"
   flutter:
