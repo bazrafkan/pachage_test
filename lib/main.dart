@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:custom_button/custom_button.dart';
 
 void main() => runApp(MyApp());
 
@@ -25,16 +26,9 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: RaisedButton(
-          color: Colors.blueAccent,
+        child: CustomButton(
+          text: "Local Button",
           onPressed: () {},
-          child: Text(
-            'Button',
-            style: TextStyle(
-              fontSize: 20,
-              color: Colors.white,
-            ),
-          ),
         ),
       ),
     );
