@@ -27,7 +27,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       body: Center(
         child: CustomButton(
-          text: "Local Button",
+          text: "Github Button",
           onPressed: () {},
         ),
       ),
